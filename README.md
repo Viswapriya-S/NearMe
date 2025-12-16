@@ -38,7 +38,7 @@ Execute the programs and publish them.
         </h3>
         <center>
     
-<img src=<img width="1906" height="917" alt="map" src="https://github.com/user-attachments/assets/2f192210-1003-4f8c-a135-3e98df8bded2" />
+<img width="1906" height="917" alt="map" src="https://github.com/user-attachments/assets/2f192210-1003-4f8c-a135-3e98df8bded2" />
  
 
 <map name="image-map">
@@ -57,7 +57,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>marina</title>
+
 </head>
 <body bgcolor="cyan" >
     <h1>Marina Beach,Chennai</h1>
@@ -71,7 +71,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+
 </head>
 <body bgcolor="sky blue">
     <h1>Nungambakkam,Chennai</h1>
@@ -85,7 +85,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+
 </head>
 <body bgcolor="orange">
     <h1>koyambedu,Chennai</h1>
@@ -99,7 +99,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+
 </head>
 <body bgcolor="pink">
     <h1>Avadi,Chennai</h1>
@@ -113,7 +113,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    
 </head>
 <body bgcolor="purple">
     <h1>Guindy,Chennai</h1>
