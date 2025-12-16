@@ -57,7 +57,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>marina.html</title>
+    <title>marina</title>
 </head>
 <body bgcolor="cyan" >
     <h1>Marina Beach,Chennai</h1>
