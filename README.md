@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 <html>
     <head>
         <title>My City</title>
@@ -121,6 +122,7 @@ Execute the programs and publish them.
     
 </body>
 </html>
+```
 
 ## OUTPUT
 ![alt text](../myproject/myapp/static/map.png)
